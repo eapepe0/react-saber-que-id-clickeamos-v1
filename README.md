@@ -1,2 +1,2 @@
-# cambiar-estado-al-clickear-true-false-react
-Created with CodeSandbox
+# react-saber-que-id-clickeamos-v1
+![captura](https://i.imgur.com/f6o013b.png)
